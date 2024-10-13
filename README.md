@@ -1,16 +1,6 @@
-## Olá, meu nome é Jhonny!
+# Olá! Eu sou Jhonny Cunha 👋
 
-Sou técnico em informática e atualmente, estudante de Ciência da Computação, no IFCE, segundo semestre.
-
-💬 Entre em contato:
-
-<div align ="center"> 
-  <a href="https://www.instagram.com/jhonnycunha7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jhonnycunhasm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhonny-cunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
----
+Sou **Desenvolvedor Frontend** e **estudante de Ciência da Computação**. Tenho interesse em aprender novas tecnologias e evoluir cada vez mais na área de desenvolvimento.
 
 ## 🚀 Minhas Skills
 
@@ -18,16 +8,45 @@ Sou técnico em informática e atualmente, estudante de Ciência da Computação
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
----
+## 💼 Projetos
 
+Aqui estão alguns projetos que desenvolvi e que estão disponíveis no meu GitHub:
+
+- [Tic-Tac-Toe](https://github.com/jhonnycs/tic-tac-toe): Um jogo da velha simples e divertido.
+- [Calculator](https://github.com/jhonnycs/Calculator): Uma calculadora simples e funcional.
+- [Agenda](https://github.com/jhonnycs/agenda): Aplicação para gerenciar compromissos e eventos.
+
+## 🎯 Objetivos
+
+Atualmente, estou focado em:
+
+- Aprender novas tecnologias para melhorar minhas habilidades como desenvolvedor.
+- Me formar em **Ciência da Computação**.
+- Futuramente, pretendo buscar oportunidades de estágio para ganhar mais experiência.
+
+## 💬 Contato
+
+<div align ="center"> 
+  <a href="https://www.instagram.com/jhonnycunha7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jhonnycunhasm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jhonny-cunha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+## 😄 Curiosidades
+
+- Adoro **ver filmes** e **jogar** no meu tempo livre.
+
+Obrigado por visitar meu perfil! 😊
+
+<!--
 ## ⭐ GitHub Stats
 <div align="center">
   <img width=425em src="https://github-readme-stats.vercel.app/api?username=jhonnycs&show_icons=true&theme=github_dark&rank_icon=github">
   <img width=315em src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnycs&layout=compact&theme=github_dark&hide=php">
 </div>
+
+-->
   
   <!--
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonnycs&show_icons=true&theme=github_dark&rank_icon=github)
